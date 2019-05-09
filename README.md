@@ -1,6 +1,8 @@
 # BullRing -- BlockChain-based Investment Trading Platform
 #MSBD6000D BlockChain In-Class Project
 
+<img src="https://raw.githubusercontent.com/Clarion919/strategyStore/master/images/BullRing2.png?token=AKDPALBBNJDZM5HNP3LVZC242PXT2" width="300" hegiht="313" align=center />
+
 BullRing is a BlockChiain-based platform to trade investment strategies with Ethers. 
 
 ## Our Motivations
@@ -14,6 +16,14 @@ solve those problems.
 - Information Security
 - Code Visbleness
 - Swarm Intelligent Score System
+
+## Functionalities of BullRing
+<table>
+    <tr>
+        <td>李强</td>
+        <td>张明</td>
+    </tr>
+</table>
 
 ## Get Started on BullRing
 The Address of Our Deployed Smart Contact: **0xccEF227CF000B88bEc694695171ff051fBbF3975** 
