@@ -20,8 +20,8 @@ solve those problems.
 ## Functionalities of BullRing
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/Clarion919/strategyStore/master/images/func1.png?token=AKDPALGVBOBJA7RDBVVMOCK42PYZW" align=center /></td>
-        <td><img src="https://raw.githubusercontent.com/Clarion919/strategyStore/master/images/func2.png?token=AKDPALBWVU7DL6IGW2M3ZMK42PY2A" align=center /></td>
+        <td><img src="https://raw.githubusercontent.com/Clarion919/strategyStore/master/images/func1.png?token=AKDPALGVBOBJA7RDBVVMOCK42PYZW" width="300" hegiht="313" align=center /></td>
+        <td><img src="https://raw.githubusercontent.com/Clarion919/strategyStore/master/images/func2.png?token=AKDPALBWVU7DL6IGW2M3ZMK42PY2A" width="300" hegiht="313" align=center /></td>
     </tr>
 </table>
 
