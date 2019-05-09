@@ -29,3 +29,8 @@ solve those problems.
 The Address of Our Deployed Smart Contact: **0xccEF227CF000B88bEc694695171ff051fBbF3975** 
 [[See our Contract]](https://ropsten.etherscan.io/address/0xccef227cf000b88bec694695171ff051fbbf3975)
 
+[Video: How to Use BullRing?]()
+
+Our Product's Desktop:
+<img src="images/demo_desktop1.png" align=center />
+
