@@ -1,4 +1,4 @@
-# BullRing -- BlockChain-based Investment Trading Platform
+# BullRing -- BlockChain-based Strategy Trading Platform
 #MSBD6000D BlockChain In-Class Project
 
 <img src="images/BullRing2.png" width="300" hegiht="313" align=center />
