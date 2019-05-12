@@ -6,11 +6,7 @@
 BullRing is a BlockChiain-based platform to trade investment strategies with Ethers. 
 
 ## Our Motivations
-Nowadays, quantitative finance platform booms in Chinese market. Even though they provides good services in connecting strategy sellers and buyers,
-It is still unsafe for both kinds of users to expose their private information to the internet and platform owners. In addition, the majority of platforms
-are centralized and thus this condition can not guarantee that platform owners supply the genuine and original strategies and 
-strategies' scores to both sellers and buyers. In order to solve those problems, we establish a blockchain-based strategy trading platform to
-solve those problems.
+Nowadays, quantitative finance platform booms in Chinese market. Even though they provides good services in connecting strategy sellers and buyers, it is still unsafe for both kinds of users to expose their private information to the internet and platform owners. In addition, the majority of platforms are centralized and thus it can not be guaranteed that platform owners supply the genuine and original strategies and strategies' scores to both sellers and buyers. In order to solve those problems, we establish a blockchain-based strategy trading platform to solve them.
 
 ## BullRing's Advantages
 - Information Security
